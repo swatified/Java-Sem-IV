@@ -1,7 +1,7 @@
 package bank;
 
-public class PackageBank {
-    public void showBankDetails() {
+public class MainBank {
+    public void showWelcome() {
         System.out.println("Welcome to the Indian Banking System!");
     }
 }
