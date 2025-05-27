@@ -6,7 +6,7 @@
    1. By using reference variable
    2. By using the constructor
    3. By using method
-4. WAP to demonstrate constructor chaining using realtim example.
+4. WAP to demonstrate constructor chaining using realtime example.
 5. WAP for 4 uses of this keyword
 6. WAP for Single Level Inheritance
 7. WAP for Multilevel Inheritance
