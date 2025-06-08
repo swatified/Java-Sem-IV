@@ -29,3 +29,16 @@
 24. WAP to find factorial with and without recursion
 25. WAP to enter a given numeric to find out the day of the week.
 26. WAP to print addittion of two matrix.
+27. WAP a program for try catch
+28. WAP a program for try finally
+29. WAP to show multiple try catch
+30. WAP to show nested try catch
+31. WAP to show throw keyword
+32. WAP to show throws keyword
+33. WAP to show custom exception
+34. WAP to write a file and  read data and print the file
+35. WAP to read data from 2 file and write it in one file
+36. WAP to read data from one file and write in 2 file
+37. WAP to count the total number of character in file
+38. WAP to show multiple thread are executing parallel and use at least 10 methods of thread class
+39. WAP achieve inter process communication using wait and notify
