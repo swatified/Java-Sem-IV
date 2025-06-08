@@ -1,0 +1,2 @@
+Content from file 1
+Content from file 2
